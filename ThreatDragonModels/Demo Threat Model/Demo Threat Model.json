@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Demo Threat Model",
+    "owner": "Karthik B",
+    "description": "A demo web application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
